@@ -1,5 +1,5 @@
 # Salut, moi c'est Joris <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
-### <p align="center">Je suis français et j'habite en france</p>
+### <p align="center">Le developpement est un passe temps, a côter je fait de la moto et de la spéléologie, actuellement en Terminal alternance Bac Pro TP</p>
 
 
 ## 📈 GitHub Stats
@@ -26,30 +26,31 @@
     -->
   </p>
 
+<!-- Emoji
+https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/
+ -->
+
+ <!-- faire un true ou y'a le logo et ne nom du langage/framework -->
+
 ## 👨‍🏫 Programming languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![My Skills](https://skills.thijs.gg/icons?i=lua,cpp,js,ts,py,html,css,md)](https://skills.thijs.gg)
+<!-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-## 🛠 Tools
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
 
 ## 📗 Common Frameworks & Libraries
+[![My Skills](https://skills.thijs.gg/icons?i=jquery,svelte,mysql)](https://skills.thijs.gg)
 Discord js
-svelte
 
-  
-</details>
+<summary><h2> ☎ Contact </h2></summary>
+Discord: Joris#6599
 
-<details><summary><h2> ☎ Contact </h2></summary>
+<!-- <details><summary><h2> ☎ Contact </h2></summary>
 
 | Platform | Name |
 | -------- | ---- |
 | Discord | Joris#6599 |
 
-</details>
+</details> -->
