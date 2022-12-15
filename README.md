@@ -1,4 +1,17 @@
-# Salut, moi c'est Joris <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
+# Salut a tous <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
+
+### About Me :
+
+Je développe pendant mon temps libre
+
+<!-- - 🔵⚪🔴 Je suis née et habite en France -->
+
+- 🟦🔲🟥 Je suis née et habite en France
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 📫 Me contacter: Joris#6599
+
+---
 ### <p align="center">Le developpement est un passe temps, a côter je fait de la moto et de la spéléologie, actuellement en Terminal alternance Bac Pro TP</p>
 
 
@@ -34,6 +47,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="50px" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="50px" height="50px">
+
+
+
 
 ## 📗 Common Frameworks & Libraries
 [![My Skills](https://skills.thijs.gg/icons?i=jquery,svelte,mysql)](https://skills.thijs.gg)
