@@ -23,7 +23,7 @@ Je développe pendant mon temps libre
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joris-developement&theme=transparent&layout=compact"
     />
     <!--
-    1. lua // 
+    1. lua
     2. MySQL
     3. html
     4. css
@@ -44,7 +44,6 @@ Je développe pendant mon temps libre
 ## 👨‍🏫 Programming languages
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -56,11 +55,11 @@ Je développe pendant mon temps libre
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" width="40" height="40"/>&nbsp;
 </p>
 
----
-
 ## 📗 Common Frameworks & Libraries
-[![My Skills](https://skills.thijs.gg/icons?i=jquery,svelte,mysql)](https://skills.thijs.gg)
-Discord js
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="svelte" alt="svelte" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original-wordmark.svg" title="DiscordJS" alt="DiscordJS" width="40" height="40"/>&nbsp;
 
 <!-- <details><summary><h2> ☎ Contact </h2></summary>
 | Platform | Name |
