@@ -19,7 +19,7 @@
     4. css
     5. JavaScript
     6. TypeScript
-    7. C++
+    7. C++ //
     8. Python
     9. Golang
     10. batch
@@ -45,12 +45,10 @@ https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-re
 Discord js
 
 <summary><h2> ☎ Contact </h2></summary>
-Discord: Joris#6599
+<img src="https://img.shields.io/badge/Joris%236599-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 <!-- <details><summary><h2> ☎ Contact </h2></summary>
-
 | Platform | Name |
 | -------- | ---- |
 | Discord | Joris#6599 |
-
 </details> -->
