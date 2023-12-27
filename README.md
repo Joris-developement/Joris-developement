@@ -5,10 +5,10 @@
 Je développe pendant mon temps libre
 
 - 🔵⚪🔴 Née et habite en France
-- 👨‍🎓 Terminal alternance Bac Pro TP (Travaux Publics)
+- 🚧🦺 Travaux Publics
 - 🔦 spéléologie
 - 🏍 moto
-- 📫 Me contacter: Joris#6599
+- 📫 Me contacter (discord): _joris_.
 
 ---
 
